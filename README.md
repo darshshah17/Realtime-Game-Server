@@ -7,18 +7,25 @@ A high-performance real-time multiplayer game server implementation in C++ with 
 
 ## Features
 
-- **High-Performance Server**: C++ server running at 120 ticks/second with ultra-low latency network polling
-- **Real-time Multiplayer**: WebSocket-based communication supporting multiple concurrent players
-- **Interactive Game**: 8x8 grid-based game with player movement and shooting mechanics
-- **Server-side Authoritative**: Ensures game integrity and prevents cheating
-- **Matchmaking System**: Automatic player matching based on game mode and player count
-- **Chat System**: Global and channel-based chat messaging
-- **Client-side Prediction**: Instant local feedback for smooth player experience
-- **Web Client**: Web interface for testing and playing
-- **C# Client SDK**: Easy-to-use SDK for game client integration
+1) **High-Performance Server**: C++ server running at 120 ticks/second with ultra-low latency network polling
 
-Real-time matchmaking on multiple browsers
+2) **Real-time Multiplayer**: WebSocket-based communication supporting multiple concurrent players
+  
+3) **Interactive Game**: 8x8 grid-based game with player movement and shooting mechanics
+  
+4) **Server-side Authoritative**: Ensures game integrity and prevents cheating
+  
+5) **Matchmaking System**: Automatic player matching based on game mode and player count
+  
+6) **Chat System**: Global and channel-based chat messaging
+  
+7) **Client-side Prediction**: Instant local feedback for smooth player experience
+  
+8) **Web Client**: Web interface for testing and playing
+  
+9) **C# Client SDK**: Easy-to-use SDK for game client integration
 
+<img width="1000" height="829" alt="Screenshot 2025-12-24 at 2 46 21 PM" src="https://github.com/user-attachments/assets/78842ff8-f126-4f74-bd96-14c25a89eec0" />
 <img width="500" height="284" alt="Screenshot 2025-12-24 at 2 30 16 PM" src="https://github.com/user-attachments/assets/8348bb38-16e3-4d15-a1c2-33938f7d8be3" />
 <img width="500" height="284" alt="Screenshot 2025-12-24 at 2 31 18 PM" src="https://github.com/user-attachments/assets/98210ad2-e78f-4e1e-8ac6-b9ce9dcd9a68" />
 
