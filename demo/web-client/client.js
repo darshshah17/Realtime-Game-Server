@@ -129,7 +129,13 @@ function handleMessage(message) {
             log(`[${message.channel}] ${message.username || 'Unknown'}: ${message.message}`, 'chat');
             break;
         case 'state_update':
-            document.getElementById('serverTime').textContent = message.serverTime || '-';
+            // Show current time in EST (HH:MM:SS format)
+            const now = new Date();
+            const estTime = new Date(now.toLocaleString("en-US", {timeZone: "America/New_York"}));
+            const hours = estTime.getHours().toString().padStart(2, '0');
+            const minutes = estTime.getMinutes().toString().padStart(2, '0');
+            const seconds = estTime.getSeconds().toString().padStart(2, '0');
+            document.getElementById('serverTime').textContent = `${hours}:${minutes}:${seconds}`;
             handleStateUpdate(message);
             break;
         case 'pong':
