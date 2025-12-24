@@ -1,6 +1,6 @@
 # Realtime Game Server
 
-A high-performance real-time multiplayer game server implementation in C++ with WebSocket support. Features server-side authoritative simulation, matchmaking, chat, and an interactive 8x8 grid-based game.
+A high-performance real-time multiplayer game server implementation in C++ and C# with WebSocket support. Features server-side authoritative simulation, matchmaking, chat, and an interactive 8x8 grid-based game.
 
 <img width="1470" height="828" alt="Screenshot 2025-12-23 at 10 34 34 PM" src="https://github.com/user-attachments/assets/39aca4d1-a032-43e8-8563-a2d1b5cd170e" />
 
