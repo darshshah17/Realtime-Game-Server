@@ -23,9 +23,9 @@ A high-performance real-time multiplayer game server implementation in C++ and C
   
 9) **C# Client SDK**: Easy-to-use SDK for game client integration
    
-<img width="1000" height="834" alt="Screenshot 2025-12-24 at 2 55 54 PM" src="https://github.com/user-attachments/assets/d1bea60b-bfd3-417e-bf12-4413a587e389" />
-<img width="500" height="284" alt="Screenshot 2025-12-24 at 2 30 16 PM" src="https://github.com/user-attachments/assets/8348bb38-16e3-4d15-a1c2-33938f7d8be3" />
-<img width="500" height="284" alt="Screenshot 2025-12-24 at 2 31 18 PM" src="https://github.com/user-attachments/assets/98210ad2-e78f-4e1e-8ac6-b9ce9dcd9a68" />
+<img width="800" height="650" alt="Screenshot 2025-12-24 at 2 55 54 PM" src="https://github.com/user-attachments/assets/d1bea60b-bfd3-417e-bf12-4413a587e389" />
+<img width="400" height="228" alt="Screenshot 2025-12-24 at 2 30 16 PM" src="https://github.com/user-attachments/assets/8348bb38-16e3-4d15-a1c2-33938f7d8be3" />
+<img width="400" height="228" alt="Screenshot 2025-12-24 at 2 31 18 PM" src="https://github.com/user-attachments/assets/98210ad2-e78f-4e1e-8ac6-b9ce9dcd9a68" />
 
 
 ## Building the Server
